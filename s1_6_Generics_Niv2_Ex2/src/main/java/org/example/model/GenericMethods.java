@@ -2,7 +2,7 @@ package org.example.model;
 
 public class GenericMethods<T> {
 
-    public GenericMethods(){};
+    public GenericMethods(){}
 
     @SafeVarargs
     public final void genericMethod(String name1, T... generics){

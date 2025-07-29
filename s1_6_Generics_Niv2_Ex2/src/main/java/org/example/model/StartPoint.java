@@ -8,5 +8,5 @@ public class StartPoint {
         generic.genericMethod(person1.getSurName(),person1,person1.getAge());
         generic.genericMethod(person1.getName(),person1,person1.getSurName());
 
-    };
+    }
 }

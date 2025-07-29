@@ -1,4 +1,4 @@
-package s1_6_Generics_Niv2_Ex1.src.main.java.org.example.model;
+package org.example.model;
 
 public class Person {
     private String name;

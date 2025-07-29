@@ -1,4 +1,4 @@
-package s1_6_Generics_Niv2_Ex1.src.main.java.org.example.model;
+package org.example.model;
 
 public class StartPoint {
     public StartPoint(){
@@ -8,5 +8,5 @@ public class StartPoint {
         generic.genericMethod(person1,person1.getAge(),person1.getName());
         generic.genericMethod(person1.getSurName(),person1,person1.getAge());
 
-    };
+    }
 }

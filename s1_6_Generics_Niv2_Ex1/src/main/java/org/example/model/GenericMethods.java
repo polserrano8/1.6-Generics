@@ -1,8 +1,8 @@
-package s1_6_Generics_Niv2_Ex1.src.main.java.org.example.model;
+package org.example.model;
 
 public class GenericMethods<T> {
 
-    public GenericMethods(){};
+    public GenericMethods(){}
 
     public void genericMethod ( T generic1,T generic2, String name1 ){
         System.out.println(generic1 + ", "+ generic2 +", " + name1);

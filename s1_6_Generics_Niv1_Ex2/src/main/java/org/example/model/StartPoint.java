@@ -6,5 +6,5 @@ public class StartPoint {
         GenericMethods<Object> generic = new GenericMethods<>();
         generic.genericMethod(person1,person1.getName(),person1.getAge());
 
-    };
+    }
 }
